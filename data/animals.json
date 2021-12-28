@@ -137,6 +137,19 @@
         "stinky"
       ],
       "id": "13"
+    },
+    {
+      "name": "Lisa",
+      "species": "Squirrel",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
